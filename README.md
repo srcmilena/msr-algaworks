@@ -1,40 +1,40 @@
 # Mergulho Spring Rest
 
-Semana de estudos proposto pela AlgaWorks, onde é abordado:
+Study week proposed by AlgaWorks, where it is covered:
 
 ****
 
-### Dia 1
+### Day 1
 
--   Fundamentos de REST;
--   Ecossistema Spring;
--   Criação do projeto Spring Boot;
--   Implementação de Collection Resource;
--   Métodos e códigos de status HTTP;
+-   REST Fundamentals;
+-   Spring ecosystem;
+-   Creating Spring Boot project;
+-   Implementation of Collection Resource;
+-   Methods and HTTP status codes;
 -   Content Negotiation.
 
 ****
 
-### Dia 2
+### Day 2
 
--   Configurando o Flyway;
--   Usando Jakarta Persistence JPA;
--   Usando Spring Data JPA;
--   Implementando o CRUD de cliente;
--   Validando com Bean Validation;
--   Implementando Exception Handler;
--   Implementando Domain Services.
+-   Setting up Flyway;
+-   Using Jakarta Persistence JPA;
+-   Using Spring Data JPA;
+-   Implementing Client CRUD;
+-   Validating with Bean Validation;
+-   Implementing Exception Handler;
+-   Implementing Domain Services.
 
 ****
 
-### Dia 3
+### Day 3
 
--   Implementando solicitação de entrega;
--   Validação em cascata e Validation Groups;
--   Boas práticas para trabalhar com data hora;
--   Isolando Domain Model do Representation Model;
--   Simplificando a transformação de objetos com ModelMapper;
--   Implementando sub recursos;
--   Implementando ação não CRUD.
+-   Implementing Delivery Request;
+-   Cascade validation and Validation Groups;
+-   Best practices for working with date time;
+-   Isolating Domain Model of the Representation Model;
+-   Simplifying the transformation of objects with ModelMapper;
+-   Implementing sub-resources;
+-   Implementing non-CRUD action.
 
 ### 
